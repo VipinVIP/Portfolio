@@ -31,8 +31,9 @@ body {
   padding-left: 30px;
   padding-top: 30px;
 }
-.left-texts {
+.right-texts {
   padding-right: 30px;
+  padding-left: 60px;
 }
 .left-hr {
   color: #fecb01;
@@ -111,11 +112,11 @@ ul li::before {
 }
 progress[value]::-moz-progress-bar { 
   background-color:#bebebe;
-  height: 10px;
+  height: 8px;
   border-radius: 2px;  
 }
 progress{
-  height:10px;
+  height:8px;
   border: 1px solid transparent;
   border-radius:5px;
   margin-top: 10px;
