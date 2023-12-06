@@ -75,12 +75,12 @@ ul li::before {
 }
 .yellow-box {
   flex: 1;
-  padding:2px;
+  padding: 2px;
   background-color: #fecb01;
 }
 .grey-box {
   flex: 4;
-  padding:2px;
+  padding: 2px;
   background-color: #bebebe44;
   padding-left: 10px;
 }
@@ -96,38 +96,38 @@ ul li::before {
   flex: 4;
   padding-left: 10px;
 }
-.reference-para{
-    padding-left: 10px;
+.reference-para {
+  padding-left: 10px;
 }
-.reference-para h4{
-    margin-top: 15px;
-    margin-bottom: -15px;
+.reference-para h4 {
+  margin-top: 15px;
+  margin-bottom: -15px;
 }
-.reference-para > .phone{
-    margin-top: -10px;
-    margin-bottom: 5px;
+.reference-para > .phone {
+  margin-top: -10px;
+  margin-bottom: 5px;
 }
-.spacer{
-    height:20px;
+.spacer {
+  height: 20px;
 }
-progress[value]::-moz-progress-bar { 
-  background-color:#bebebe;
+progress[value]::-moz-progress-bar {
+  background-color: #bebebe;
   height: 8px;
-  border-radius: 2px;  
+  border-radius: 2px;
 }
-progress{
-  height:8px;
+progress {
+  height: 8px;
   border: 1px solid transparent;
-  border-radius:5px;
+  border-radius: 5px;
   margin-top: 10px;
 }
-.progress-wrapper{
+.progress-wrapper {
   display: flex;
   flex-direction: column;
-  flex:1;
-  padding:20px;
+  flex: 1;
+  padding: 20px;
 }
-.two-div-flex{
+.two-div-flex {
   display: flex;
   padding-left: 90px;
 }
