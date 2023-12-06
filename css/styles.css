@@ -118,4 +118,15 @@ progress{
   height:10px;
   border: 1px solid transparent;
   border-radius:5px;
+  margin-top: 10px;
+}
+.progress-wrapper{
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  padding:20px;
+}
+.two-div-flex{
+  display: flex;
+  padding-left: 90px;
 }
